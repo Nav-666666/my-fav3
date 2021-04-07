@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  background-repeat: no repeat;
+  font-size: 50px;
+}
+h1{
+text-align: center;  
+font-size: 50px;  
+}
+p{
+ text-align: center;  
+font-size: 30px;
+}
+#image{
+  width: 600px;
+  height: 300px;
+}
+html{
+    scroll-behavior: smooth;
+}
